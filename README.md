@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Debs28
-- 👀 I’m interested in  aprender mais sobre  a  área de tecnologia
-- 🌱 I’m currently learning  Python e JavaScript
+- 👀 Estou aprendendo mais sobre  a  área de tecnologia
+- 🌱 Atualmente dou dev jr
 - 📫 Insta - debora_santos28
  
 <!---
