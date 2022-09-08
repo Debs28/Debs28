@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Debs28
 - 👀 Estou aprendendo mais sobre  a  área de tecnologia
-- 🌱 Atualmente  sou dev jr
+- 🌱 Atualmente  sou dev jr foco em Python e Front-End
 - 📫 Insta - debora_santos28
  
 <!---
